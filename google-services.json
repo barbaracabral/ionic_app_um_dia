@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306394520476",
+    "firebase_url": "https://toaqui-b793d.firebaseio.com",
+    "project_id": "toaqui-b793d",
+    "storage_bucket": "toaqui-b793d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306394520476:android:8c7dc44952a5c9ac72c659",
+        "android_client_info": {
+          "package_name": "com.conectacomigo.toaqui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306394520476-doje0c37m247a7bmd1ifncr0anr5ub36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjGw-Ugd0MW3lwauxudhsfa4xN0Fnd_mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306394520476-doje0c37m247a7bmd1ifncr0anr5ub36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
